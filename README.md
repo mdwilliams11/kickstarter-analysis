@@ -9,7 +9,7 @@ Our client, Louise, wants to know how various theater-related kickstarter campai
 ### Analysis of Outcomes Based on Launch Date
 To investigate any potential trends based on kickstarter campaign launch dates, I first organized the data available through kickstarter. I created a pivot table focusing on only the “theater” campaigns and counted the number of successful, failed, and cancelled campaigns within each month. This is a graph of those outcomes by the month the campaigns were launched.
 
-![Theater_Outcomes_vs_Launch](/assets/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Since the analysis based on launch date didn’t take into account the target fundraising goal it would benefit our analysis to focus on the outcomes of campaigns based on their goal amount. I started by only looking at campaigns in the subcategory of “plays”, which is a subcategory included in the parent category of the “theater” campaigns, and breaking them up into ranges of goal amounts. This is a graph of the percentage of successful and failed campaigns over the various goal ranges.
