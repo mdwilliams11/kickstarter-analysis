@@ -14,6 +14,7 @@ To investigate any potential trends based on kickstarter campaign launch dates, 
 ### Analysis of Outcomes Based on Goals
 Since the analysis based on launch date didn’t take into account the target fundraising goal it would benefit our analysis to focus on the outcomes of campaigns based on their goal amount. I started by only looking at campaigns in the subcategory of “plays”, which is a subcategory included in the parent category of the “theater” campaigns, and breaking them up into ranges of goal amounts. This is a graph of the percentage of successful and failed campaigns over the various goal ranges.
 
+![Outcomes_vs_Goals](https://raw.githubusercontent.com/mdwilliams11/kickstarter-analysis/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One challenge was reformatting the data related to start and end dates of the campaigns. Using a conversion formula I was able to get the time data into a format which made it possible to analyze the data based on month and year.
